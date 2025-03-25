@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkecomofa_2_rent=self.webpackChunkecomofa_2_rent||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/ecomofa2rent/blog","blogTitle":"Blog","authorsListPath":"/ecomofa2rent/blog/authors"}')}}]);
