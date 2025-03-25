@@ -9,4 +9,4 @@ Jetzt beginne ich mit meiner Dokumentation ...
 
 <!-- truncate -->
 
-Es ist sicher spannend, das zu tun.
+Es ist sicher spannend, das zu tun. sehr spannend
