@@ -1,4 +1,4 @@
- spannend---
+r spannend spannend---
 slug: sf-erster-beitrag
 title: Stefans erster Beitrag
 authors: [sfaustmann]
@@ -9,4 +9,4 @@ Jetzt beginne ich mit meiner Dokumentation ...
 
 <!-- truncate -->
 
-Es ist sicher spannend, das zu tun.
+Es ist sicher spannend, das zu tun. sehr spannend
