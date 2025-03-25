@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sfaustmann/ecomofa2rent/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sfaustmann/ecomofa2rent/',
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sfaustmann/ecomofa2rent/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sfaustmann/ecomofa2rent/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
