@@ -1,4 +1,4 @@
----
+ spannend---
 slug: sf-erster-beitrag
 title: Stefans erster Beitrag
 authors: [sfaustmann]
