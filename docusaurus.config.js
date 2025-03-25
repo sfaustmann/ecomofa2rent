@@ -45,8 +45,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sfaustmann/ecomofa2rent/',
+          //editUrl:
+           // 'https://github.com/sfaustmann/ecomofa2rent/',
         },
         blog: {
           showReadingTime: true,
@@ -56,8 +56,8 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sfaustmann/ecomofa2rent/blob/main/',
+          //editUrl:
+           // 'https://github.com/sfaustmann/ecomofa2rent/blob/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'ecomofa2rent',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
