@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/tutorial-basics/deploy-your-site.md",
+                "file": "Benutzerberechtigung_einstellen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "deploy-your-site"
+              "title": "Benutzerberechtigung_einstellen"
             }
           }
         ]
@@ -170,6 +170,13 @@
   },
   "active": "e6ad75df8de93494",
   "lastOpenFiles": [
+    "docs/Findentity Hilfe/Arbeiten mit Findentity/Benutzerberechtigung einstellen.md",
+    "Benutzerberechtigung_einstellen.md",
+    "Benutzerverwaltung (Gruppen).md",
+    "docs/Findentity Hilfe/Arbeiten mit Findentity",
+    "docs/Findentity Hilfe",
+    "docs/Findentity Changelog/2025-01-22 CL Findentity 2025.md",
+    "docs/tutorial-basics/deploy-your-site.md",
     "build/docs/category/tutorial---extras/index.html",
     "build/docs/tutorial-extras/manage-docs-versions/index.html",
     "build/docs/tutorial-extras/translate-your-site/index.html",
@@ -178,9 +185,6 @@
     "build/docs/tutorial-basics/deploy-your-site/index.html",
     "build/docs/tutorial-basics/create-a-page/index.html",
     "build/docs/tutorial-basics/create-a-document/index.html",
-    "build/docs/tutorial-basics/create-a-blog-post/index.html",
-    "build/docs/category/tutorial---basics/index.html",
-    "build/docs/tutorial-extras/translate-your-site",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -210,10 +214,6 @@
     "node_modules/pkg-dir/node_modules/locate-path/readme.md",
     "node_modules/pkg-dir/node_modules/find-up/readme.md",
     "node_modules/cacheable-request/node_modules/mimic-response/readme.md",
-    "node_modules/@csstools/selector-resolve-nested/README.md",
-    "node_modules/@csstools/selector-resolve-nested/LICENSE.md",
-    "node_modules/@csstools/selector-resolve-nested/CHANGELOG.md",
-    "node_modules/undici/docs/docs/best-practices/client-certificate.md",
-    "node_modules/undici/docs/docs/best-practices/writing-tests.md"
+    "node_modules/@csstools/selector-resolve-nested/README.md"
   ]
 }
