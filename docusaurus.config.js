@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'ecomofa2rent',
   tagline: 'E-Mobilität auf zwei Rädern mieten und vermieten',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Logo ecomofa.png',
 
   // Set the production url of your site here
   url: 'https://sfaustmann.github.io',
