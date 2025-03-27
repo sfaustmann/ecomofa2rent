@@ -79,7 +79,7 @@ const config = {
         title: 'ecomofa2rent',
         logo: {
           alt: 'Mein Seiten Logo',
-          src: 'static/img/Logo ecomofa.png',
+          src: 'static/img/Logo ecomofa.svg',
         },
         items: [
           {
