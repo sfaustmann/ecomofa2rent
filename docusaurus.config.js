@@ -78,8 +78,8 @@ const config = {
       navbar: {
         title: 'ecomofa2rent',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Mein Seiten Logo',
+          src: 'static/img/Logo ecomofa.png',
         },
         items: [
           {
@@ -139,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ecomofa2rent. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KFZ-Handel & -Vermietung Stefan faustmann (ecomofa). Erstellt mit Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
